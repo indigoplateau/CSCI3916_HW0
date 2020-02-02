@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b37238-3318-4ac6-9c35-08958924e33f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/googlebooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/googlebooks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +28,6 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="87" />
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
   <component name="ProjectId" id="1X5H9sSMKd9AkqkUZQFY3Ze7IhP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -113,35 +109,32 @@
       <workItem from="1548093242743" duration="143000" />
       <workItem from="1580328890979" duration="377000" />
       <workItem from="1580405107968" duration="205000" />
-      <workItem from="1580603649600" duration="467000" />
+      <workItem from="1580603649600" duration="1963000" />
+      <workItem from="1580683896742" duration="548000" />
+      <workItem from="1580684619688" duration="478000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Test_Unit_Tests - 2019.01.01 at 10h 58m 55s.xml">
-      <configuration name="Test Unit Tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1580604169545">
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1580610800568">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580604169545" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1580604169543">
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580610800568" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1580610800566">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580604169543" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1580604169542">
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580610800566" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1580610800565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580604169542" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1580604169545">
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580610800565" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1580610800567">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580604169545" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580610800567" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

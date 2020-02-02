@@ -1,0 +1,19 @@
+"headers": {
+      "expires": "Sun, 02 Feb 2020 00:49:56 GMT", //time after which the response is considered stale
+      "date": "Sun, 02 Feb 2020 00:49:56 GMT",
+      "cache-control": "private, max-age=0, must-revalidate, no-transform", //Directives for caching mechanisms
+      "etag": "\"iPPser6Mov75mJUb_EktR4oB1SI/juQcipjSRiKNgP6T8v41sef6rzQ\"", //version of the resource
+      "vary": "Origin, X-Origin", //tells the HTTP cache what parts of the request header to use when trying to find the right object
+      "content-type": "application/json; charset=UTF-8", //tells the client what the content type of the returned content actually is, in this case a json object
+      "x-content-type-options": "nosniff", //MIME Type content sniffing disabled
+      "x-frame-options": "SAMEORIGIN", //page can only be displayed in a frame on the same origin as the page itself
+      "x-xss-protection": "1; mode=block", // Stops page from loading if XSS attack detected. Enabled.
+      "content-length": "39976",//size of  entity in bytes
+      "server": "GSE", //name of the software used by the origin server to handle the request, GSE
+      "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000",
+      "connection": "close" // general header controls whether or not the network connection stays open after the current transaction finishes. In this case close.
+   },
+   "requestHeader": {
+      "Accept": "application/json, text/plain, */*", //indicates what content types the client is able to understand. In this case Json object in plain text not case sensitive.
+      "User-Agent": "axios/0.18.0" identification of requesting user agent
+   }
